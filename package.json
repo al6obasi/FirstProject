@@ -1,0 +1,11 @@
+{
+  "name": "shortly-express",
+  "version": "1.1.0",
+  "description": "Learn about authentication by building a link shortener",
+  "author": "Hack Reactor <curriculum.team@hackreactor.com>",
+  "license": "UNLICENSED",
+  "private": true,
+  "dependencies": {
+    "express": "^4.13.4"
+  }
+}
